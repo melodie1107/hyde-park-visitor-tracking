@@ -25,10 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~yunichen/1.embed" height="525" width="100%"></iframe>'
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~yunichen/1.embed" height="525" width="100%"></iframe>'
 
 ### Jekyll Themes
 
